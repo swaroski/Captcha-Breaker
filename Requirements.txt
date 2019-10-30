@@ -1,0 +1,14 @@
+Python >= 3.5
+NumPy >= 1.11.0
+SciPy>= 0.11
+scikit-learn
+matplotlib
+imutils
+argparse
+CV2
+time
+requests
+OS
+Keras 2.3.1
+
+Create imagesearch library separately
